@@ -1,0 +1,9 @@
+{
+    "tags": [],
+    "name": "Outlier Detection - IQR",
+    "description": "Model to Compute Q1, Q3, IQR, and number of outliers of numerical features",
+    "modelCategory": "MODEL_MONITORING_MODEL",
+    "defaultAssociationRole": "PERFORMANCE_MODEL",
+    "frequentlyUsed": true,
+    "custom" : {}
+}
