@@ -3,7 +3,7 @@
         "usage": "INPUT_ASSET",
         "assetRole": "COMPARATOR_DATA",
         "metaData": {
-            "description": "Slice of Production Data"
+            "description": "Sample Dataset: Slice of Production Data"
         }
     }
 ]
